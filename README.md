@@ -3,7 +3,6 @@
 ### *A Bridge Between Farmers and Technology*
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/project-status-active-blue)
 ![Domain](https://img.shields.io/badge/domain-AgriTech-orange)
 ![Tech](https://img.shields.io/badge/tech-AI%20%7C%20IoT%20%7C%20Web%20%7C%20Mobile-brightgreen)
 
