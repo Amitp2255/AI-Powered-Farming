@@ -1,8 +1,6 @@
 
 import { WeatherData } from '../types';
 
-const OPENWEATHER_API_KEY = '16773e4c73626299c4f6f243b8599a44';
-
 // --- Helper: Map OpenWeatherMap icons to our internal Lucide icons ---
 const mapOWMIcon = (code: string): string => {
   // Codes: https://openweathermap.org/weather-conditions
