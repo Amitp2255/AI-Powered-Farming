@@ -1,0 +1,9 @@
+{
+  "name": "Smart Crop Advisory System",
+  "description": "An AI-powered web application to help farmers make informed decisions about crops, fertilizers, and pest management. It features crop recommendations, pest analysis from images, and an AI chatbot for agricultural queries.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
